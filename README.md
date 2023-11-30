@@ -1,2 +1,2 @@
 # Oracle-DBA-Scripts
-My Test Repository
+Repository Containing all the scripts. 
